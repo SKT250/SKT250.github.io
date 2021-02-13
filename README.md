@@ -2,7 +2,7 @@
 
 这里是撤硕的GitHub仓库，一个有趣的视频网站
 
-PS:如果github.io被墙，可以[点我](http://gy.imskt.ga)去故衍的快乐小屋观看
+PS:如果github.io被墙，可以[点我](http://gy.imskt.ga/ceshuo)去故衍的快乐小屋观看
 
 # 更新日志
 ## 2021/1/22 更新
