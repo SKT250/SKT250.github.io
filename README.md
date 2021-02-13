@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# 这是什么？
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+这里是撤硕的GitHub仓库，一个有趣的视频网站
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# 更新日志
+## 2021/1/22 更新
+
+修复了炸睾丸和吹牛鼻不能播放的问题
+
+## 2021/2/12 更新
+
+解锁2021分区
